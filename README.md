@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi, I’m Lokesh
 
-<!--
-**lokesh123d/lokesh123d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Frontend Developer | JavaScript Enthusiast | Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I love creating clean, responsive and user-focused web applications with modern web technologies.
+
+About Me
+
+ I’m currently working on Real-world web projects & full-stack learning
+
+ Learning: JavaScript, React.js, Node.js, Express, MongoDB
+
+I enjoy building UI components, web clones, and AI-based tools
+
+Goal: Become a Full-Stack Developer
+
+Tech Stack
+
+Frontend:
+HTML • CSS • JavaScript • React.js • Tailwind CSS • Bootstrap
+
+Backend:
+Node.js • Express.js • MongoDB (Learning)
+
+Tools:
+Git • GitHub • VS Code • Linux Ubuntu
+
+Featured Projects
+
+🔹 AI Content Generator – Simple text generation tool
+
+🔹 Netflix / Flipkart / Amazon Clones – Practice UI projects
+
+🔹 Portfolio Website – Modern and responsive design
+
+🔹 Voice-Control Ubuntu Project – Automating Linux with voice commands
+
+
+ GitHub Stats
+
+ Connect With Me
+
+Email: dangwallokesh043@gmail.com
+
+Portfolio: https://portfolio-lokesh-ten.vercel.app/
+
+ Support
+
+If you like my work, don’t forget to star ⭐ my repositories!
