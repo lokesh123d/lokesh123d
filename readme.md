@@ -1,34 +1,158 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lokesh Dangwal
-=======================================================================================================================================
+<div align="center">
 
-Frontend Web Developer
-----------------------
+<!-- Banner Image -->
+<img src="./Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (2).png" alt="Lokesh Dangwal Banner" width="100%" />
 
-*   I'm based in India
-*   You can contact me at [dangwallokesh043@gmail.com](mailto:dangwallokesh043@gmail.com)
-*  I'm currently learning Express Js
+<br/>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=380&height=40&lines=Hey!+I'm+Lokesh+Dangwal;Frontend+Developer;MERN+Stack+Learner;React.js+Enthusiast)](https://git.io/typing-svg)
+
+<!-- Animated wave divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+<!-- Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=lokesh123d&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/lokesh123d)
+[![GitHub followers](https://img.shields.io/github/followers/lokesh123d?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.github.com/lokesh123d)
+
+</div>
+
+<br/>
+
+<img align="right" alt="Logo" width="250" src="./logo.png" />
+
+## About Me
+
+> Frontend Developer with strong knowledge of **JavaScript** and **React.js**, along with working experience in **Node.js** and **Express.js**. Focused on clean code, responsive design, and performance.
+
+- Apprentice at **Xcelevate Skills Foundation**, Chennai
+- Currently learning **Full-Stack MERN Development**
+- Full Stack Web Dev — **NavGurukul Foundation**, HP
+- **[lokesh.2547@xcelevate.org](mailto:lokesh.2547@xcelevate.org)**
+- **[My Portfolio](https://lokesh-three-lyart.vercel.app/)**
+- Fun fact: I love building **UI clones & AI tools**
+
+<br clear="both"/>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### Socials
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/lokesh123d" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Lokesh6477" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/lokesh-dangwal-444397344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@theserver23-45?si=Tzxg_2dmQ5ry-fU9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/lokesh123d" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lokesh123d?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Lokesh6477" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Lokesh6477?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/lokesh123d"><img src="https://github-readme-stats.vercel.app/api?username=lokesh123d&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lokesh123d's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/lokesh123d"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh123d&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Projects
 
-<a href="https://github.com/lokesh123d" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh123d&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-<b>Top Repositories</b>
+| Project | Repo | Stack |
+|:--------|:----:|:------|
+| Holiday Packages App | [View](https://github.com/lokesh123d) | MERN Stack |
+| E-Commerce Store | [View](https://github.com/lokesh123d) | MERN Stack |
+| Transportation App | [View](https://github.com/lokesh123d) | MERN + GSAP |
+| Freelance Client Work | [View](https://github.com/lokesh123d) | React / Static |
 
-<div width="100%" align="center"><a href="https://github.com/lokesh123d/Qusar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh123d&repo=Qusar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lokesh123d/NavGurukulPortfolioData" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh123d&repo=NavGurukulPortfolioData&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<!-- Using github-readme-stats alternative instance -->
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokesh123d&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=lokesh123d&theme=dark&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=10" alt="Streak Stats" />
+
+<br/>
+
+<img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokesh123d&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&layout=compact&border_radius=10" alt="Top Languages" />
+
+</div>
+
+---
+
+## Top Repos
+
+<div align="center">
+
+<a href="https://github.com/lokesh123d/Qusar"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lokesh123d&repo=Qusar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=10" /></a>
+&nbsp;
+<a href="https://github.com/lokesh123d/cilent-2-project"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lokesh123d&repo=cilent-2-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=10" /></a>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.github.com/lokesh123d" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lokesh-dangwal-444397344" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50" /></a>
+&nbsp;&nbsp;
+<a href="https://www.x.com/Lokesh6477" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" /></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@theserver23-45" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="50" /></a>
+&nbsp;&nbsp;
+<a href="mailto:lokesh.2547@xcelevate.org"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" /></a>
+&nbsp;&nbsp;
+<a href="https://lokesh-three-lyart.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokesh123d/lokesh123d/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokesh123d/lokesh123d/output/github-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/lokesh123d/lokesh123d/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+<!-- Pac-Man animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/>
+
+If you like my work, consider starring my repos!
+
+<br/>
+
+<!-- Footer wave -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+</div>
