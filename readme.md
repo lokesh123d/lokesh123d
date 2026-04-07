@@ -12,8 +12,6 @@
 <!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" /> -->
 
 <!-- Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=lokesh123d&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/lokesh123d)
-[![GitHub followers](https://img.shields.io/github/followers/lokesh123d?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.github.com/lokesh123d)
 
 </div>
 
