@@ -110,23 +110,6 @@
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.github.com/lokesh123d" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lokesh-dangwal-444397344" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50" /></a>
-&nbsp;&nbsp;
-<a href="https://www.x.com/Lokesh6477" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" /></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/@theserver23-45" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="50" /></a>
-&nbsp;&nbsp;
-<a href="mailto:lokesh.2547@xcelevate.org"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" /></a>
-&nbsp;&nbsp;
-<a href="https://lokesh-three-lyart.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" /></a>
-
-</div>
 
 ---
 
@@ -149,6 +132,6 @@ If you like my work, consider starring my repos!
 <br/>
 
 <!-- Footer wave -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" /> -->
 
 </div>
