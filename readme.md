@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=380&height=40&lines=Hey!+I'm+Lokesh+Dangwal;Frontend+Developer;)](https://git.io/typing-svg)
 
 <!-- Animated wave divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" /> -->
 
 <!-- Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=lokesh123d&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/lokesh123d)
